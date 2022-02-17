@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 500px;
+    border: 1px solid gray;
+    margin: 0 auto;
+
+}
+
+.card-header {
+    background-color: #17A2B8;
+    height: 80px;
+    border-radius: 3px;
+
+}
+.card-body {
+    height: 150px;
+    padding: 15px 30px;
+
+}
+
+.imgUsuario {
+    width: 50px;
+    border: 2px solid lightgrey;
+    border-radius: 50%;
+    position: relative;
+    top: 40px;
+    left: 30px;
+    
+}
+
+h1 {
+    margin-bottom: 10px;
+}
+
+h3 {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+.icono {
+    width: 10px;
+    margin-top: 0px;
+    margin-right: 10px;
+
+}
+
+p{
+    margin-top: 0;
+}
+.penlace {
+    margin-top: 10px;
+
+}
+.enlace a {
+    color: blue;
+}
